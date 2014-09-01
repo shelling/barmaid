@@ -1,0 +1,2 @@
+class Barmaid
+end
